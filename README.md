@@ -24,7 +24,7 @@ Feel free to explore my repositories and don't hesitate to reach out! 🚀
 
 ## GitHub Statistics
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cryspaulino&layout=compact))
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cryspaulino&layout=compact)
 
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
