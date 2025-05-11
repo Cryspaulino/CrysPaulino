@@ -21,3 +21,14 @@ I'm Crystal, a student at Brigham Young University-Idaho interested in Computer 
 - Here is my LinkedIn profile: https://www.linkedin.com/in/paulinocrystal/
   
 Feel free to explore my repositories and don't hesitate to reach out! 🚀
+
+## GitHub Statistics
+<div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+</div>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cryspaulino&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cryspaulino&layout=compact)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cryspaulino)
